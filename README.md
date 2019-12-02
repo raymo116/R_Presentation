@@ -23,10 +23,16 @@ R is a unique programming language that’s helped give rise to a whole new prog
 
 ## Sources
 https://en.wikipedia.org/wiki/R_(programming_language)
+
 https://www.r-project.org/about.html
+
 https://data-flair.training/blogs/pros-and-cons-of-r-programming-language/
+
 https://www.geeksforgeeks.org/first-class-functions-python/
+
 http://www.pqr-project.org/
+
 http://adv-r.had.co.nz/Functions.html
+
 http://pypl.github.io/PYPL.html
 
