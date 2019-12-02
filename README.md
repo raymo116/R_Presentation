@@ -1,6 +1,6 @@
 # R
 
-## Matt Raymond, Charlie Raymond, Andrew Baumer
+## Matt Raymond, Charlie Raymond, Andrew Bauer
 
 There are a couple of reasons that we thought it would be a good idea to work with R. First of all, we’ve worked with R before, and its something that we’re all familiar with. We thought that it’d be better to study a language that we already knew than to start off with a brand new one. Additionally, R is extremely important for Data Science, which is a topic that some of us are really interested in at the moment. Furthermore, R seems to have a relatively unique programming method, acting more like a computational environment than code intended to be compiled into a standalone executable. Finally, it seemed interesting because it’s one of the few languages that we know of that’s meant to be used in a specialized, language-specific IDE. Many other languages can be written in a notepad, but R is specifically meant to work with R studio. This is due, in part to its unique history.
 
