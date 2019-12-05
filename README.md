@@ -36,3 +36,6 @@ http://adv-r.had.co.nz/Functions.html
 
 http://pypl.github.io/PYPL.html
 
+
+## Presentation
+https://docs.google.com/presentation/d/1LmseXbSVqE7cn9U7h80DoYnZ72MeQzt2_ifLj3s6CZs/edit?usp=sharing
