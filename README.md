@@ -39,3 +39,47 @@ http://pypl.github.io/PYPL.html
 
 ## Presentation
 https://docs.google.com/presentation/d/1LmseXbSVqE7cn9U7h80DoYnZ72MeQzt2_ifLj3s6CZs/edit?usp=sharing
+
+## Notation for Presentation
+
+Real World Use
+- 7th Most Popular Language
+    - So R is currently the 7th most popular language worldwide
+    - That means that it has to be doing something right
+    - Not only that but that means it’s incredibly utilized in the computer science industry, meaning you guys might want to pick up the language in your free time
+- Oracle
+    - One of the big tech giants to officially adopt R was Oracle
+    - In 2012 they integrated R within their Oracle R Enterprise
+    - This is Oracle’s big data mining platform and they integrated R because of R’s both widespread and ease of use
+- Google
+    - Another big tech giant to admit to using R is Google
+    - With their Google Flu Trends project, a project to visualize current flu projections, they use R to estimate current flu activity based off Google Search results
+    - Within this project they take large sets of data, which in this instance a bunch of users’ search queries, and utilize R to create models with optimized weights to estimate flu activity around the world
+- Facebook
+    - The last big tech giant, although there are many, that uses R is Facebook
+    - With the thousands of data points that they pull from a single user, they can predict the emotions of a user
+    - As seen on the graph on the screen, Facebook was able to show that people in a relationship are generally happier than those who are single
+    - They created this correlation through the number of posts that a user posts when single vs when in a relationship based on when the user changes their relationship status
+    - All of this data was then organized and visualized through R as seen on the screen
+
+
+Advantages
+- Great With Data
+    - The language itself was originally created to deal with data
+    - It’s fantastic for observing statistics and analyzing said data which brings me to R’s next advantage
+- Visualization
+    - R is extremely flexible and easy to use when trying to create visualizations for data
+    - The language itself has a bunch of built in functions that create a smart display of data such as the str() function which will display each individual input and output of any function
+    - Another built in function that’s extremely useful when dealing with data is the summary function that will display descriptive statistics for every function within the dataset such as the minimum, maximum, and median
+    - The plot function is a built in function that will automatically display all data points on a computer generated graph
+    - All these functions are just a couple of built in functions that aide to creating processes such as simulations, graphs, and charts
+- Open-Source
+    - R is open-source meaning anyone can examine the source code to see exactly what’s happening in the background
+    - This also helps improve the language as users are able to fix bugs and implement features without waiting for a vendor
+    - Also, since R is the 7th most popular language, there’s a massive user support for the language including tons of tutorials, forums, and people working to improve the language constantly
+- Easy Cross Language Integration
+    - There are tons of community generated packages to implement R within other languages due to R’s large community
+    - This makes it extremely simple to find a package to implement R
+- Object Oriented
+    - Lastly, it’s object oriented, meaning you can create any object of your imagination
+    - Which also basically means its not as annoying as C is
